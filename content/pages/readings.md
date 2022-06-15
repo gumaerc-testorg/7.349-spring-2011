@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Orientation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Orientation)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#Orientation" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ No readings
 
 History of stem cell biology and axis of research
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#History)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#History" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Martin, G. "[Isolation of a Pluripotent Cell Line from Early Mouse Embryos Cultu
 
 What makes a stem cell a stem cell? Part 1 – Transcription Factors
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#What_make)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#What_make" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ Wu, Q., X. Chen, J. Zhang, Y. H. Loh, T. Y. Low, W. Zhang, W. Zhang, S. K. Sze, 
 
 What makes a stem cell a stem cell? Part 2 – Chromatin Structure
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#What)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#What" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +136,7 @@ Lagger, S., D. Meunier, M. Mikula, R. Brunmeir, M. Schlederer, M. Artaker, O. Pu
 
 New Technologies
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#New)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#New" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +164,7 @@ Pardo, M., B. Lang, L. Yu, H. Prosser, A. Bradley, M. M. Babu, and J. Choudhary.
 
 Field Trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Field)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#Field" %}}
 
 
 {{< tdclose >}}
@@ -180,7 +182,7 @@ No readings
 
 Cloning of mammalian cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Cloning)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#Cloning" %}}
 
 
 {{< tdclose >}}
@@ -208,7 +210,7 @@ Wilmut, I., A. E. Schnieke, J. McWhir, A. J. Kind, and K. H. Campbell. "[Viable 
 
 Reprogramming and Trans-differentiation - Transcription Factors, 2.0
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Reprogramming)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#Reprogramming" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ Ieda, M., J.-D. Fu, P. Delgado-Olguin, V. Vedantham, Y. Hayashi, B. G. Bruneau, 
 
 Are cancer-initiating cells stem cells?
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Are_cancer)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#Are_cancer" %}}
 
 
 {{< tdclose >}}
@@ -264,7 +266,7 @@ Ben-Porath, I., M. W. Thomson, V. J. Carey, R. Ge, G. W. Bell, A. Regev, and R. 
 
 Using lessons from stem cells to treat diabetes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Using)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#Using" %}}
 
 
 {{< tdclose >}}
@@ -292,7 +294,7 @@ Zhou, Q., J. Brown, A. Kanarek, J. Rajagopal, and D. A. Melton. "[_In vivo_ Repr
 
 Stem cell therapies
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Stem)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#Stem" %}}
 
 
 {{< tdclose >}}
@@ -320,7 +322,7 @@ Taguchi, A., T. Soma, H. Tanaka, T. Kanda, H. Nishimura, H. Yoshikawa, Y. Tsukam
 
 The future of regenerative medicine
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_future)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#The_future" %}}
 
 
 {{< tdclose >}}
@@ -348,7 +350,7 @@ Keirstead, H. S., G. Nistor, G. Bernal, M. Totoiu, F. Cloutier, K. Sharp, and O.
 
 Final assignment
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#2nd_assignment)
+{{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "See the Lecture Summary" "#2nd_assignment" %}}
 
 
 {{< tdclose >}}
