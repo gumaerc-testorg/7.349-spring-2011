@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the midterm assignment and final
+  assignment of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e0b1b55d-ad25-5f62-6ce1-62276c6aadcb
 ---
@@ -7,7 +12,7 @@ uid: e0b1b55d-ad25-5f62-6ce1-62276c6aadcb
 Midterm Assignment: Written Summary and Proposal from the Field Trip
 --------------------------------------------------------------------
 
-Students will prepare a written summary of the [Week #6 field trip]({{< baseurl >}}/pages/lecture-summaries#Field) and a proposal for future scientific research. The summary and the proposal should not exceed two pages in length (double line spacing, font 11). The summary (one page) will include an overview, interpretation and significance of the results, and a statement of the long-term impact of the research. The proposal will present a key question that would be a logical follow up from the research and give a brief experimental design to test the question. Emphasis should be put on key experiments including appropriate controls. The first assignment will be due Week #7.
+Students will prepare a written summary of the {{% resource_link 0cc6d693-73da-4186-0b5e-60d86d61cb2c "Week #6 field trip" "#Field" %}} and a proposal for future scientific research. The summary and the proposal should not exceed two pages in length (double line spacing, font 11). The summary (one page) will include an overview, interpretation and significance of the results, and a statement of the long-term impact of the research. The proposal will present a key question that would be a logical follow up from the research and give a brief experimental design to test the question. Emphasis should be put on key experiments including appropriate controls. The first assignment will be due Week #7.
 
 Final Assignment: Presentation Concerning Recent Stem Cells Research Literature
 -------------------------------------------------------------------------------
