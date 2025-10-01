@@ -135,7 +135,7 @@ New technologies
 Field trip and 1{{< sup "st" >}} assignment
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip— [Stem Cells Seminar – MIT Biology Colloquium](http://mit.edu/biology/www/biology/colloquium.html)
+Field trip— {{% resource_link "2ce1320b-2d36-449f-9505-0f60718475ae" "Stem Cells Seminar – MIT Biology Colloquium" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

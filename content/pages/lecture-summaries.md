@@ -95,15 +95,15 @@ ES cell research is a quickly evolving field. We will discuss recent technologic
 {{< tdopen >}}
 
 
-Field Trip: Stem Cells Seminar – [MIT Biology Colloqium](http://mit.edu/biology/www/biology/colloquium.html)
+Field Trip: Stem Cells Seminar – {{% resource_link "2ce1320b-2d36-449f-9505-0f60718475ae" "MIT Biology Colloqium" %}}
 
-Speaker: [Judith Kimble, University of Wisconsin](http://www.biochem.wisc.edu/faculty/kimble/) – "An RNA regulatory network controls C. elegans germline stem cells."
+Speaker: {{% resource_link "99f7ba7b-421e-4a50-91a6-5f0edb64edaf" "Judith Kimble, University of Wisconsin" %}} – "An RNA regulatory network controls C. elegans germline stem cells."
 
 Papers:
 
-Kershncer, A.M., and J. Kimble. "[Genome-wide Analysis of mRNA Targets for _Caenorhabditis elegans_ FBF, a Conserved Stem Cell Regulator.](http://www.ncbi.nlm.nih.gov/pubmed/20142496)" _Proc Natl Acad Sci USA_ 107, no. 8 (23 February 2010): 3936-41.
+Kershncer, A.M., and J. Kimble. "{{% resource_link "108e5a1f-6fd3-4b87-b95d-dadbe95b4fc3" "Genome-wide Analysis of mRNA Targets for _Caenorhabditis elegans_ FBF, a Conserved Stem Cell Regulator." %}}" _Proc Natl Acad Sci USA_ 107, no. 8 (23 February 2010): 3936-41.
 
-Morgan, C.T., M.H. Lee, J. Kimble. "[Chemical Reprogramming of _Caenorhabditis elegans_ germ fate.](http://www.ncbi.nlm.nih.gov/pubmed/20081824)" _Nat Chem Biol._ 6, no. 2 (February 2010): 102-4.
+Morgan, C.T., M.H. Lee, J. Kimble. "{{% resource_link "5f1cf59e-2033-44e7-a92c-506e65773ad3" "Chemical Reprogramming of _Caenorhabditis elegans_ germ fate." %}}" _Nat Chem Biol._ 6, no. 2 (February 2010): 102-4.
 
 
 {{< tdclose >}}
